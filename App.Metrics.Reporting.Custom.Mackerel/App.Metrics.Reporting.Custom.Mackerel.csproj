@@ -3,7 +3,12 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>0.0.1</Version>
+    <Version>0.0.1-alpha01</Version>
+    <Description>Reporter to Mackerel of App Metrics.</Description>
+    <PackageProjectUrl>https://github.com/7474/App.Metrics.Reporting.Custom.Mackerel</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/7474/App.Metrics.Reporting.Custom.Mackerel</RepositoryUrl>
+    <RepositoryType />
+    <PackageTags>mackerel appmetrics</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
